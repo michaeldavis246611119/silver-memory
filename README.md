@@ -1,3 +1,19 @@
+- 👋 Hi, I’m @michaeldavis246611119 
+
+2- 👀 I’m interested in Development 
+
+3- 🌱 I’m currently learning AI Performace
+
+4- 💞️ I’m looking to collaborate on podcast and content creation 
+
+5- 📫 How to reach me enail
+
+7- ⚡ Fun fact I still have a baby tooth
+
+8
+
+
+
 # Introduction to GitHub
 
 <!-- ![](https://github.com/michaeldavis246611119/silver-memory/actions/workflows/0-start-exercise.yml/badge.svg) -->
